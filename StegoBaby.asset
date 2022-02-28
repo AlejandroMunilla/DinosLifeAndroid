@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1a21e95966806a41b124a69165a2f07, type: 3}
+  m_Name: StegoBaby
+  m_EditorClassIdentifier: 
+  Name: StegoBaby
+  race: Stegosaurius
+  age: Baby
+  health: 50
+  food: 100
+  water: 100
+  armour: 1
+  rest: 100
+  exp: 10000
+  speed: 1
+  curhealth: 50
+  curfood: 100
+  curwater: 100
+  curarmour: 3
+  currest: 100
+  curSpeed: 1
+  model: {fileID: 0}
